@@ -36,7 +36,7 @@ function startGame() {
   // re add new score to browser
   scoreDisplay.textContent = score
   direction = 1
-  intervalTime = 1000
+  intervalTime = 800
   //new apple
   generateApples()
   //re add class of snake to new currentSnake
