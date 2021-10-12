@@ -1,0 +1,40 @@
+
+.game {
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.grid {
+  width: 200px;
+  height: 200px;
+  border: solid 2px black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.square {
+  width: 20px;
+  height: 20px;
+  background-color: #EDEDED;
+}
+
+.snake {
+  background-color:#5A6062;
+}
+
+.apple {
+  background-color: aqua;
+}
+
+button {
+  background: #EDEDED;
+  color: black;
+  padding: 15px 20px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+h1, h2 {
+  text-align: center;
+}
