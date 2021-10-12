@@ -27,17 +27,20 @@
 }
 
 button {
-  display: flex;
-  justify-content: center;
   background: #EDEDED;
   color: black;
-  padding: 15px 20px;
+  padding: 1rem 1rem;
+  margin: 2rem;
   text-align: center;
   font-weight: bold;
   text-decoration: none;
 }
 
-h1, h2 {
+h1 {
   text-align: center;
-  padding-top: 2rem;
+  padding-top: 3rem;
+}
+
+h2 {
+  text-align: center;
 }
