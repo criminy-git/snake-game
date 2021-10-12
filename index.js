@@ -115,6 +115,6 @@ startButton.addEventListener('click', startGame)
 
 
 
-// // setInterval (function without (), time in ms)
-// // const timerId = setInterval (function, time)
+// setInterval (function without (), time in ms)
+// const timerId = setInterval (function, time)
 
