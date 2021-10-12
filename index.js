@@ -8,7 +8,7 @@ let direction = 1
 let width = 10
 let appleIndex = 0
 let score = 0
-let intervalTime = 1000
+let intervalTime = 800
 let speed = 0.9
 let timerId = 0
 
