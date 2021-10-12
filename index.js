@@ -8,7 +8,7 @@ let direction = 1
 let width = 10
 let appleIndex = 0
 let score = 0
-let intervalTime = 800
+let intervalTime = 650
 let speed = 0.9
 let timerId = 0
 
@@ -36,7 +36,7 @@ function startGame() {
   // re add new score to browser
   scoreDisplay.textContent = score
   direction = 1
-  intervalTime = 800
+  intervalTime = 650
   //new apple
   generateApples()
   //re add class of snake to new currentSnake
