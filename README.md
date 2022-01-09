@@ -1,10 +1,9 @@
-# snake-game
-Snake Game in Javascript
+Snake Game 
 
-https://pudelmotte.github.io/snake-game/
+[Click here to view finished project](https://criminy-git.github.io/snake-game/)
 
+What I learned by during this project (October 2021):
+- Making objects appear to be moving by changing the style of elements of a grid
+- setInterval();
+- Using key codes to set events
 
-Lessons learned by doing this project:
-- how to make an object (here the snake) appear to be moving by changing the style of elements of a grid
-- setInterval(function, milliseconds);
-- how to use key codes to set events to pressing specific keyboard keys
