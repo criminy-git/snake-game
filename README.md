@@ -1,4 +1,4 @@
-Snake Game 
+# Snake Game 
 
 [Click here to view finished project](https://j-pohl.github.io/snake-game/)
 
