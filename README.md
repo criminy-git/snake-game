@@ -1,6 +1,6 @@
 Snake Game 
 
-[Click here to view finished project](https://criminy-git.github.io/snake-game/)
+[Click here to view finished project](hhttps://j-pohl.github.io/snake-game/)
 
 What I learned by during this project (October 2021):
 - Making objects appear to be moving by changing the style of elements of a grid
